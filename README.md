@@ -1,6 +1,6 @@
 # japan-population-by-prefecture
 
-* Interative Graph here: https://nonoumasy.github.io/japan-population-by-prefecture/
+* Interactive Graph here: https://nonoumasy.github.io/japan-population-by-prefecture/
 
 ![Screenshot](screenshot.png)
 
